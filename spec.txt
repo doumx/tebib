@@ -1,0 +1,44 @@
+Médecine Générale
+Chirurgie Dentaire
+Gynecologie Obstetrique
+Pediatrie
+Chirurgie Generale
+Ophtalmologie
+Orthopedie Dento Faciale
+Cardiologie
+Anesthèsiologie
+Pathologie Digestive
+Electroradiologie
+Parodontie
+Dermato Venerologie
+Oto Rhino Laryngologie
+Médecine Du Travail
+Orthopedie Traumatologie
+Pneumo Phtisiologie
+Psychiatrie
+Urologie
+Nephrologie
+Rhumatologie
+Endocrinologie
+Biologie Medicale
+Chirurgie Plastique
+Médecine Interne
+Neurochirurgie
+Anatomopathologie
+Reeducation Readaptation
+Chirurgie Infantile
+Hematologie Clinique
+Chirurgie Cardiovisculair
+Médecine Du Sport
+Stomatologie
+Gastroenterologie (5
+Sante Publique (4
+Experts Pres Les Tribunau
+Allergologue
+Neurologie 
+Oncologie 
+Chirurgie Orthopedique
+Anesthesie Reanimation
+Prothesistes Dentaires
+Reanimation Medicale
+
